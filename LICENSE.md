@@ -1,4 +1,4 @@
-#  
+#  Enhance Notion for macOS with best Notion for macOS Extension | widgets + OCR scanning, the #1 extension. Includes widgets and OCR scanning for a smoother experience.
 
 
 
